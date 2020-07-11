@@ -1,5 +1,10 @@
 package file;
 
+/**
+ * 
+ * @author Bharat Kumar
+ *
+ */
 public interface File {
 	
 	public void setBinary(Byte[] binary);
